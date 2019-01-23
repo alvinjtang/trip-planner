@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #C1B5AD;
+}
+
+#map {
+  height: 100vh;
+  width: 100vw;
+}
+
+header{
+  display: flex;
+  position: fixed;
+  width: 100%;
+  font-family: 'ZCOOL KuaiLe', cursive;
+  background-color: lavender;
+  border: solid white 5px;
+  z-index: 2;
+}
+
+#navbar {
+  background-color: 'white';
+}
